@@ -23,7 +23,7 @@ header h2 {
 
 header {
   text-align: center;
-  padding-bottom: 225px;
+  padding-bottom: 250px;
 }
 
 h1 {
@@ -92,4 +92,10 @@ figcaption {
 .author img {
   width: 65%;
   border-radius: 50%;
+}
+
+.alert {
+  padding: 10px;
+  border: 1px solid black;
+  text-align: center;
 }
